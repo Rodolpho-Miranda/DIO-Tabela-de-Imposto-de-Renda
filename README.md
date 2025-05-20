@@ -11,12 +11,12 @@ Somente Excel.
 ## Dashboard
 Primeira Tela
 
-<a href=”https://github.com/Rodolpho-Miranda/DIO-Tabela-de-Imposto-de-Renda/blob/main/App_1.jpg”>
+![Image](https://github.com/user-attachments/assets/e229d741-0ab0-4c16-bb86-6335360b3c2f)
 
 Segunda Tela
 
-<a href=”https://github.com/Rodolpho-Miranda/DIO-Tabela-de-Imposto-de-Renda/blob/main/App_2.jpg”>
+![Image](https://github.com/user-attachments/assets/06f4228d-45e9-4e8a-af18-5b71c3e6d1d6)
 
 Terceira Tela
 
-<a href=https://github.com/Rodolpho-Miranda/DIO-Tabela-de-Imposto-de-Renda/blob/main/App_3.jpg”>
+![Image](https://github.com/user-attachments/assets/53e9eb51-360c-40f8-9254-c1c0c1f195ad)
