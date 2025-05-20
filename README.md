@@ -8,4 +8,15 @@ O dashboard foi feito completamente no Excel de forma simples e prática.
 ## Tecnologias Utilizadas
 Somente Excel.
 
+## Dashboard
+Primeira Tela
 
+<a href=”https://github.com/Rodolpho-Miranda/DIO-Tabela-de-Imposto-de-Renda/blob/main/App_1.jpg”>
+
+Segunda Tela
+
+<a href=”https://github.com/Rodolpho-Miranda/DIO-Tabela-de-Imposto-de-Renda/blob/main/App_2.jpg”>
+
+Terceira Tela
+
+<a href=https://github.com/Rodolpho-Miranda/DIO-Tabela-de-Imposto-de-Renda/blob/main/App_3.jpg”>
